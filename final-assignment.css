@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(186, 185, 190);
+    /* display: grid; */
+}
+
+header{
+    font-size: 40px;
+    padding: 40px 40px 40px;
+    text-align: center;
+    color:black;
+    border: 0px;
+    margin: 0px;
+    grid-column: 1/4;
+    font-family: "Truculenta", sans-serif;
+}
+a:hover{
+    color: red;
+}
+h1{
+    width: 98.4%;
+    border: groove black; padding: 10px 10px 10px; margin: 0px; background-color: rgb(186, 185, 190);
+    text-size-adjust: 20px;
+    font-weight: 100;
+    text-align: center;
+    grid-column: 1/4;
+}
+
+p{
+    line-height: 1.5;
+}
+section{
+    border: groove black;
+    padding: 0px 0px 0px;
+    margin: 0px 0px 0px;
+}
+
+footer{
+text-align: center;
+padding: 10px 0px 0px;
+font-size: xx-large;
+}
